@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/rpg-stuck-rule-primer/","tags":["gardenEntry"]}
 ---
 
-
+![](/img/user/Attachments/image8.jpg)
 
 # RPGStuck Primer: Cerulean
 
