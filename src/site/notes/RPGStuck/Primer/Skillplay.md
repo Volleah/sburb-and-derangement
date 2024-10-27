@@ -71,17 +71,32 @@ Players have the following skills:
 
 >[!info] Insight (Wisdom) 
 > describes your ability to read people and situations to uncover true intentions. Insight involves listening and reading body language, and is often used to determine if someone is lying, or to predict someone’s next move or ulterior motivations.
-- Medicine (Wisdom) describes your ability to diagnose and effectively treat wounds. It also describes your grasp of the underlying knowledge behind the biology and chemistry of the body, as well tangential knowledge, from epidemiology, to diets and poisons, to weaknesses in the human body.
-- Perception (Wisdom) describes your awareness of your surroundings. This encompasses things such as noticing hidden creatures or objects, finding traps, or eavesdropping.
-- Sanity (Wisdom) describes your mental fortitude and ability to resist harmful influences and retain your sense of self in the midst of traumatic circumstances. Just as Endurance describes physical resilience, sanity describes mental resilience.
-- Survival (Wisdom) describes your ability to survive in the wild, including finding safe food, navigation, making effective shelters, tracking creatures, avoiding natural hazards, and predicting weather.
 
-- Deception (Charisma) describes your ability to convince others a falsehood is true. This could be outright lying, feinting in combat, visually disguising yourself, or mimicking another creature.
-- Intimidation (Charisma) describes your ability to scare others and present yourself as more threatening. This could be attempting to threaten someone, attracting attention in combat, scaring others away, or other hostile actions.
-- Performance (Charisma) describes your ability to put on a public display, either through some form of speech, musical performance, dance, acting, romance, or other entertainment.
-- Persuasion (Charisma) describes your ability to influence people in good faith without deception. This includes using logical arguments to convince someone, etiquette to help someone be more friendly to you, or make cordial requests. It may also be used for small talk, schmoozing, or flirting.
+>[!info] Medicine (Wisdom) 
+>describes your ability to diagnose and effectively treat wounds. It also describes your grasp of the underlying knowledge behind the biology and chemistry of the body, as well tangential knowledge, from epidemiology, to diets and poisons, to weaknesses in the human body.
 
-##### Gambits and Challenges
+>[!info] Perception (Wisdom)
+> describes your awareness of your surroundings. This encompasses things such as noticing hidden creatures or objects, finding traps, or eavesdropping.
+
+>[!info] Sanity (Wisdom) 
+>describes your mental fortitude and ability to resist harmful influences and retain your sense of self in the midst of traumatic circumstances. Just as Endurance describes physical resilience, sanity describes mental resilience.
+
+>[!info] Survival (Wisdom)
+>describes your ability to survive in the wild, including finding safe food, navigation, making effective shelters, tracking creatures, avoiding natural hazards, and predicting weather.
+
+>[!info] Deception (Charisma) 
+>describes your ability to convince others a falsehood is true. This could be outright lying, feinting in combat, visually disguising yourself, or mimicking another creature.
+
+>[!info] Intimidation (Charisma) 
+>describes your ability to scare others and present yourself as more threatening. This could be attempting to threaten someone, attracting attention in combat, scaring others away, or other hostile actions.
+
+>[!info] Performance (Charisma) 
+>describes your ability to put on a public display, either through some form of speech, musical performance, dance, acting, romance, or other entertainment.
+
+>[!info] Persuasion (Charisma) 
+>describes your ability to influence people in good faith without deception. This includes using logical arguments to convince someone, etiquette to help someone be more friendly to you, or make cordial requests. It may also be used for small talk, schmoozing, or flirting.
+
+## Gambits and Challenges
 
 A gambit is a type of encounter where you attempt to perform/achieve some complex or significant task/goal where a single check won't cut it. The keywords are complexity and gravity; a task must have one or both of these to be worth a gambit.
 
@@ -95,11 +110,9 @@ Once all the checks are made (or you accrue five successes), resolve the gambit.
 
 You're allowed to push a gambit by going for a fourth check. However, you roll this check at disadvantage, and you must abide by its results. Pushing a gambit is a desperation move.
 
-Gambits, In-Depth
+### Gambits, In-Depth
 
-- Developer's Note (1/17/21): While this section was not written by a member of the development team responsible for writing up documents, it has nonetheless proven helpful enough in its current state to merit being put into the Primer.
-
-WHAT ARE GAMBITS?  
+#### What are Gambits?  
 
 >A Gambit is called when there is a difficult task ahead not immediately accomplished by combat. sneaking through areas, debating, puzzling and chase scenes are some examples of Gambits.
 
@@ -108,7 +121,7 @@ WHAT ARE GAMBITS?
 >Gambits use an unique resource to measure success, (similar yet separate to HP in  combat) called a Gambit BAR. there are 2 types of Gambits.
 
   
-REGULAR GAMBIT  
+#### REGULAR GAMBIT  
   
 ![](/img/user/Attachments/image9.png)  
 
@@ -119,7 +132,7 @@ REGULAR GAMBIT
   
 The goal of a regular Gambit is for the player to completely deplete this bar through their usage of skills (Gambit CHECKS)  
 
-OPPOSED GAMBIT  
+#### OPPOSED GAMBIT  
 ![](/img/user/Attachments/image5.png)  
   
 >opposed Gambits contain 2 bars, one for the player, and one for the opponent  
@@ -129,7 +142,7 @@ OPPOSED GAMBIT
 
 The goal of an opposed Gambit is to reduce your opponent’s Gambit bar to ZERO, while maintaining yours above that.
 
-HOW TO USE GAMBITS?
+#### How to use Gambits?
 
 Gambits are primarily Roleplay governed by a set of STAKES and FLAWS that grant mechanical bonus or malus to your Gambit check in the form of D6s
 
@@ -146,11 +159,11 @@ They can reduce your chances of success.![](/img/user/Attachments/image3.png)
 
 The number of dice for stakes and flaws increase with the complexity and strength of each particular benefit or frailty.  
   
-IT SHOULD BE NOTED, THAT THE PRIMARY FORM TO ACQUIRE STAKES DICE IS THROUGH DECOR.
+>IT SHOULD BE NOTED, THAT THE PRIMARY FORM TO ACQUIRE STAKES DICE IS THROUGH DECOR.
 
-THE GAMBIT CHECK:                  A Gambit check works similarly to a skill check, whoever, when making a Gambit roll, the player rolls all of their Gambit dice, and adds (or subtracts) the result of the highest scoring  dice to their check as such.  
+THE GAMBIT CHECK: A Gambit check works similarly to a skill check, whoever, when making a Gambit roll, the player rolls all of their Gambit dice, and adds (or subtracts) the result of the highest scoring  dice to their check as such.  
   
-1d20+(skill the player wants to use for the Gambit)+Gambit dice  
+>1d20+(skill the player wants to use for the Gambit)+Gambit dice  
 ![](/img/user/Attachments/image2.png)
 
 If a player has both stakes and flaws available, one of each must be removed until only 1 Gambit dice (or none) remain  
@@ -160,23 +173,23 @@ as seen on the left, the player had only 2 stakes, and three flaws. so two stake
   
   
 
-GAMBIT RESOLUTION:  
+#### Gambit Resolution
   
-For regular Gambits, we check if the player’s Gambit check beat the DC for the situation, if the player succeeds, they subtract 1 pip from the Gambit barFor every 5 points over the DC, the player subtracts an additional pip (see image)  
-  
+For regular Gambits, we check if the player’s Gambit check beat the DC for the situation, if the player succeeds, they subtract 1 pip from the Gambit bar
+For every 5 points over the DC, the player subtracts an additional pip (see image)  
 For every 5 points under the DC, the Gambit bar heals 1 pip, with overhealing being possible here.  
+Once damage/healing has been dealt, a new round for the Gambit starts.  
   
-Once damage // Healing has been dealt, a new round for the Gambit starts.  
-  
-The DCs are as follows:![](/img/user/Attachments/image1.png)
+![](/img/user/Attachments/image1.png)
+The DCs are as follows:
 
-Easy (DC 10)
+- Easy (DC 10)
 
-Medium (DC 15)
+- Medium (DC 15)
 
-Hard (DC 20)
+- Hard (DC 20)
 
-Extreme (DC 25)
+- Extreme (DC 25)
 
 for opposing Gambits, the player to start the round goes for their Gambit check, and regardless of the result, adds 1 damage to the DAMAGE POOL.  
   
@@ -187,7 +200,8 @@ the opponent, then counters by beating the opponent’s Gambit check (setting t
 This back and forth continues until either participant fails/concedes and takes damage, and from there, a new round is started.  
   
   
-ADDITIONAL NOTES:![](/img/user/Attachments/image7.png)
+#### ADDITIONAL NOTES
+![](/img/user/Attachments/image7.png)
 
   
 Gambits can end when:  
@@ -204,7 +218,7 @@ A completely full bar indicates that the situation hasn’t managed to either ge
   
 An overflowing bar indicates the player has made their current situation worse.                                       ![](/img/user/Attachments/image4.png)
 
-Opposed Gambits
+## Opposed Gambits
 
 If there is an active, opposing force, it is an opposed gambit instead. In this, you roll off against an opponent in three rounds of checks instead, trying to get five successes before they do.
 
@@ -212,7 +226,7 @@ In each round, one side makes a skill check, called the opening. Then the other 
 
 When one side fails to beat the check, or concedes, the other side accrues as many successes as checks were made during that round. Then the side that lost begins the next round.
 
-- Developer's Note (6/17/20): In this way, opposed gambits are like a game of poker, you either fold or raise. You're not allowed to call, you either raise the Stakes or you quit.
+- In this way, opposed gambits are like a game of poker, you either fold or raise. You're not allowed to call, you either raise the Stakes or you quit.
 
 You can push an opposed gambit for a fourth round, but all checks in the round are made at disadvantage. So can the other side, if they wish.
 
@@ -220,7 +234,7 @@ When all the rounds are played (or one side accrues five successes), resolve the
 
 If neither side got all five, compare them. If you have more than your opponent, you suffer a consequence (but not failure) as you achieve your goal. If your opponent has more than you, you fail to do it. If there is a tie, the two of you immediately make an opposed skill check as a tiebreaker, with the winner getting a success. Then resolve accordingly.
 
-Other Gambits
+## Other Gambits
 
 If there is a fixed number of tasks to be done, an overclock gambit may be used. In this, you make a fixed number of rolls, typically three to six, then tally up your successes at the end. If you have ten or more successes (you had enough to fill the gambit clock twice over), you not only succeed the gambit, but gain an additional benefit.
 
@@ -228,7 +242,7 @@ If the gambit's goal is to forestall disaster, a catastrophe gambit might be use
 
 Examples of such can be found in the SMA, as these types no longer strictly key to EXP gain.
 
-Challenges
+#### Challenges
 
 A gambit's checks can compensate for or undo each other. This works in social and stealth challenges, where a misstep can unravel your work, or a lucky break can redeem it.
 
@@ -238,7 +252,7 @@ If you have to sail the seas, climb a cliff, unlock the gates, and charm the ang
 
 This is called a challenge, where you complete several checks in succession until you achieve your goal. You get EXP for completing a challenge. The EXP is determined by the player's tier and the average DC of the challenge's checks.
 
-Example of Play
+#### Example of Play
 
 Let's look at an example. The player is a troll looking to drive an arms dealer out of town for selling faulty ammo. The DC is 10, and it's going to be a regular gambit.
 
@@ -250,7 +264,7 @@ The dealer tries making excuses, and accidentally insults the troll. They respon
 
 This is 8 above the DC. They gain an additional two successes, which brings them to the five they need to pass the gambit. The dealer trips over themselves throwing back the money, a bit more on top, and promptly flees the town, leaving the troll with XP and the dealer's money.
 
-##### Consequences
+## Consequences
 
 We'll be going over this briefly and giving examples in later sections of this chapter to give you an idea, while detailed discussions of consequences can be found in the SMA.
 
@@ -278,7 +292,7 @@ But let's go deeper. What happens because they fail?
 
 - You lose the opportunity, and the situation evolves such that you cannot try it again. You must find a new approach. You only got a sneer, a rude gesture, and a lifetime ban from the jewelry shop with the quest macguffin you need, now you may need to use the five finger discount.
 
-Failing Forward
+#### Failing Forward
 
 Shutting a player out without an alternative option is a surefire way to kill any momentum they had. Players will inevitably fail their checks if RNG has anything to say about it, they will suffer the consequences of their failures eventually. The narrative should not depend on the player passing their checks in order to progress.
 
@@ -286,13 +300,13 @@ Consequences are presented in RPGStuck in such a way that there can always be an
 
 The SM should be a fan of the players. This isn't to say that everything should be handed to them on a silver platter, but there should be a way forward that the players can easily grasp, in their threads and in the session as a whole.
 
-##### The Social Network
+## The Social Network
 
 Social interaction is one of the fundamental pillars of roleplaying. And indeed civilized life itself, but this is a tabletop game, you're here to read about social skill checks and gambits where social encounters are concerned.
 
 As even a casual reader of Homestuck will be aware (if such a thing exists), conversations and speeches and other words for gabbing away with words beige and purple form a massive part of Sburb, and the same is true in RPGStuck.
 
-Social Checks
+#### Social Checks
 
 A check is used when there is uncertainty about the outcome of an action. A social check, therefore, is used when there's uncertainty about the outcome of a social interaction, how the other side will react in response to something you said.
 
@@ -302,21 +316,21 @@ On the other side, Insight is used to discern someone's intentions. If you try 
 
 Insight is not used to resist, say, Persuasion. Insight gives you, well, an insight, into someone's words and actions. It has no bearing on changing someone's mind by itself. In that vein, the SM does not make checks for NPCs to interact with you, the player. You have autonomy in this regard, where your character cannot be made to believe something solely because the dice said so, you must do it of your own volition.
 
-Examples
+##### Examples
 
 Let's look over some samples to get a feel for this. Your mileage may vary, depending on your SM and the way they like to run their sessions.
 
-- Example Checks:
+###### Example Checks:
 
 - Regular: Ask a consort to do you a favor, scaring a child into brushing their teeth.
 - Opposed: Convince a cop your story is valid and that carapacian's is not, explain to your mother the magazines are not what it looks like.
 
-- Example Gambits:
+###### Example Gambits:
 
 - Regular: Persuade a horrorterror to grant you a boon, intimidate an arms dealer into refunding and fleeing town, play the lead role in a stage performance.
 - Opposed: Compete on Alternia's Got Talent, debate the merits of monarchism in front of a crowd.
 
-- Example DCs:
+###### Example DCs:
 
 - DC 10: Convincing a child to go to somewhere they don’t want to, or lying to said child that you did not eat their snacks when you totally did.
 
@@ -341,7 +355,7 @@ Let's look over some samples to get a feel for this. Your mileage may vary, depe
 - 1 Flaws Die: Social stigma, a rotten stench, pronouncing GIF incorrectly. An unfavorable air. Something that invites scorn. A social faux pas.
 - 2 Flaws Dice: Misanthropic personality, vicious rumors about you, an order from above. Intractable disposition. A severely unfavorable air. An outside influence.
 
-Tie-Ins
+#### Tie-Ins
 
 Decors are often the go-to for Stakes dice. More specifically, the Persona and Direction groups.
 
@@ -351,13 +365,13 @@ Alchemy geared towards social encounters typically boils down to information gat
 
 Speaking of which, psionics, especially Dominating and Empathic Mind Controls, can greatly expand the dimensions for a social gambit, when one might be required at all. Remember, gambits are to resolve uncertainty: brief bouts of total mind control might bypass this, depending on the context.
 
-##### The Sneaky Beaky
+## The Sneaky Beaky
 
 Stealth is something just about everyone understands: don't get caught! To expound on that, it's about acting without drawing attention, moving beneath notice. An alternate way to go about this is obfuscation; if you can't hide what you're doing, mislead any onlookers as to your actual intent and goals.
 
 Even the most casual player will wonder if they can steal that slice of cake, or the magic item in the shop, or the queen's secret magazines, without getting caught. Secrecy and misdirection are the bread and butter of the stealth game.
 
-Stealth Checks
+#### Stealth Checks
 
 A check is used when there is uncertainty about the outcome of an action. A stealth check, therefore, is used when there's uncertainty about the outcome of a trick, or a subversion, whether the other side will be fooled by your misdirection.
 
@@ -377,21 +391,21 @@ A popular depiction of stealth gameplay in videogames is that the player sneaks 
 
 As a rule of thumb, consider which is more important; sneaking around, or the actual fight itself? If being a sneaky beaky matters more, use a gambit to abstract the player's progress, with every success representing the player taking out more and more guards, or how likely they are to get away scot-free.
 
-Examples
+#### Examples
 
 Let's look over some samples to get a feel for this. Your mileage may vary, depending on your SM and the way they like to run their sessions.
 
-- Example Checks:
+###### Example Checks:
 
 - Regular: Run by a hall monitor when they're not looking, blend into the crowd when the mean girls posse is around.
 - Opposed: Sneak by the neighbor's dog looking for someone to bark at, hide in the forest from an actual cannibal looking for you.
 
-- Example Gambits:
+###### Example Gambits:
 
 - Regular: Stealthily take out a group of guards one by one without raising the alarm, locate and neutralize a VIP without being caught.
 - Opposed: Evade armed guards searching for you after your prison break, sneak a long message to a third party while being watched.
 
-- Example DCs:
+###### Example DCs:
 
 - DC 10: Sneaking through an abandoned warehouse or dense forest, hiding in a concert or rave.
 
@@ -409,14 +423,14 @@ Let's look over some samples to get a feel for this. Your mileage may vary, depe
 
 - Alternately, a total bonus of +15, for opposed checks.
 
-- Example Stakes and Flaws:
+###### Example Stakes and Flaws:
 
 - 1 Stakes Die: Soundless sneakers, a brief distraction. A helpful item. An opportunity.
 - 2 Stakes Dice: Certified ninja attire, a fireworks festival. A very helpful item. An environmental factor.
 - 1 Flaws Die: Crunchy boots, loose tic tacs in your pocket, you don't actually know where the end is. An unhelpful item. A reason to meander.
 - 2 Flaws Dice: Bells on the wrists and ankles, a phone not on vibrate, going it blind. A very unhelpful item. An unknown quantity.
 
-Tie-Ins
+#### Tie-Ins
 
 Decors are often the go-to for Stakes dice. Every type of Decor has one or two suited towards this end.
 
@@ -424,7 +438,7 @@ The majority of Flaws will come from either inferior equipment, environmental fa
 
 Alchemy geared towards stealth encounters is focused on boosting one's stealth capabilities, as well as information gathering. Most Stakes dice will come from this or Decors. Clothes that absorb noise instead of generating it, a shiny distraction rock that always returns to your pocket, an accessory that briefly lets you become invisible.
 
-##### The Mystic Paths
+## The Mystic Paths
 
 The existence of the supernatural is apparent in many ways: aliens, psionic powers, strange mystical powersets granted by a horribly designed game with an insistence for naming conventions.
 
@@ -432,7 +446,7 @@ If you are psionic, human or troll, you have access to new avenues of action in 
 
 We'll be talking mainly about psionics here. In practice, it tends to be interchangeable with magic, and almost all of the advice for psionics also applies to classpects.
 
-Supernatural Checks
+#### Supernatural Checks
 
 A check is used when there is uncertainty about the outcome of an action. A supernatural check check, therefore, is used when there's uncertainty about the outcome of a supernatural action. Unlike social or stealth checks, it's not strictly about how the other side reacts, but a measure of the player's efforts.
 
@@ -444,7 +458,7 @@ The psionic skill may substitute for other skills in appropriate contexts. If yo
 
 For SMs, know when to let the supernatural substitute for the mundane by the context of their powers. Telekines might justify using Occult in place of Acrobatics by using Lift to maneuver themselves, while Whisperers might switch out Persuasion for it when dealing with the undead.  Trying to jury rig a power for something other than its intended purpose falls into this category as well. It should be appropriately difficult for, say, an Electrokine to restart someone's heart.
 
-A Word about Space
+####  A Word about Space
 
 No, not the aspect.
 
@@ -458,21 +472,21 @@ It'll require some explanation on how your psionic powers work, exactly. To be f
 
 You might notice this corresponds with Passion, Artifice, and Erudition, from Decors and Demeanors. ...or does it correspond with Slayer, Sentinel, and Strategist, from Pillars and Paths?
 
-Examples
+##### Examples
 
 Let's look over some samples to get a feel for this. Your mileage will most certainly, depending on your SM, the way they like to run their sessions, and how their session treats psionics.
 
-- Example Checks:
+###### Example Checks:
 
 - Regular: Burn through a metal door as a Pyrokine, search for the source of a psychic phenomenon as an Antipsion.
 - Opposed: Resist a mind reading, resist a corrupting influence.
 
-- Example Gambits:
+###### Example Gambits:
 
 - Regular: Commune with the spirits of the dead.
 - Opposed: Hold a mind knife fight with a psion, bind a horrorterror to your will.
 
-- Example DCs:
+###### Example DCs:
 
 - DC 10: Reading a dimwit's mind, juicing up an electric car, tracking the direction of a psionic disturbance.
 
@@ -497,7 +511,7 @@ Let's look over some samples to get a feel for this. Your mileage will most cert
 - 1 Flaws Die: A tainted focus, the wrong rites, psi in the air. Mistaken tools, or rites. A mystic influence.
 - 2 Flaws Dice: An ancient curse, anti-psionic interference. A greater, hostile power. Targeted interference.
 
-Tie-Ins
+##### Tie-Ins
 
 There are a few Decors for supernatural Stakes dice, but they won't be your main way of getting them.
 
@@ -507,7 +521,7 @@ Alchemy geared towards supernatural encounters typically either expands what you
 
 You'll notice this is specific to the Telekinesis power. Each power has its own ways it can diverge from others, such that no two players' movesets will be alike, despite having the same power.
 
-##### The Peanut Gallery
+## The Peanut Gallery
 
 Pursuing a fleeing target. Researching and writing a term paper. Exploring a hundred mile swathe of jungle. Casing a military base. Treating third degree burns. Building IKEA furniture. All these things don't quite fit into the previous three, but you may find yourself doing one or more of these at some point. These would obviously be done with checks and gambits. If you need to mix these as part of a greater goal, it's probably a challenge.
 
