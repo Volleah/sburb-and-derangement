@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/rpg-stuck/primer/rpg-stuck-rule-primer/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/rpg-stuck/primer/rpg-stuck-rule-primer/"}
 ---
 
-![](/img/user/Attachments/image8.jpg)
+![](/img/user/Attachments/image8.png)
 
 # RPGStuck Primer: Cerulean
 
@@ -15,5 +15,5 @@
 ### [[RPGStuck/Primer/Echeladder\|Echeladder]]
 ### [[RPGStuck/Primer/Psionics\|Psionics]]
 ### [[RPGStuck/Primer/Conditions\|Conditions]]
-## [[RPGStuck/Useful Pages\|Useful Pages]]
-## [[RPGStuck/Guides\|Guides]]
+## [[RPGStuck/Miscellaneous/Useful Pages\|Useful Pages]]
+## [[RPGStuck/Miscellaneous/Guides\|Guides]]
