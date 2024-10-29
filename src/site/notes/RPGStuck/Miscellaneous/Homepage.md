@@ -10,6 +10,10 @@ here you can get used to the rules of RPGStuck.
 This is where you'll build out your character! for a guide on how to do so check out the guide over at [[RPGStuck/Miscellaneous/Guides#Character Sheet\|Guides#Character Sheet]].
 ## [[RPGStuck/Strife Specibus/Strife Specibi\|Strife Specibi]]
 This contains all information relevant to your weapon, AKA your Strife Specibus.
+## [[RPGStuck/Psionic Powers/Psionic Powers\|Psionic Powers]]
+Certainly not magic! ways for you to alter the world around you is all.
+## [[RPGStuck/Pillars and Paths/Pillars and Paths\|Pillars and Paths]]
+Or what you might call, your "class", you stabstab? shieldy? strangey?
 ## [[RPGStuck/Miscellaneous/Pages to be Imported\|Pages to be Imported]]
 Here you'll find all the pages I still haven't gotten around to importing... 
 ## [[RPGStuck/Miscellaneous/Guides\|Guides]]

@@ -3,7 +3,7 @@
 ---
 
 
-## [Psionic Powers List](https://docs.google.com/document/d/12FiWq2qXb3y7IY2rMVwFopiQD7pzUztJpjL8gr5YbIA/edit?usp=sharing)
+
 ## [Pillars and Paths](https://docs.google.com/document/d/1xaPy_GzWAecpbdmbDS5Y5OEzBvn0j1-WNdr13FCF9Os/edit?usp=sharing)
 ## [Decors List](https://docs.google.com/document/d/12rB_cDhSqr3PMs53nlJvtmjugXdlS_ygJu7zTaKiFHg/edit?usp=sharing)
 ## [Bestiary](https://docs.google.com/spreadsheets/d/1GceeZ-loz2u4jadjlI5fUqNWeOP6b_ptonT6hOfCHv4/edit?usp=drivesdk) (?)
