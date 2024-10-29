@@ -14,6 +14,10 @@ This contains all information relevant to your weapon, AKA your Strife Specibus.
 Certainly not magic! ways for you to alter the world around you is all.
 ## [[RPGStuck/Pillars and Paths/Pillars and Paths\|Pillars and Paths]]
 Or what you might call, your "class", you stabstab? shieldy? strangey?
+## [[RPGStuck/Decors and Demeanors/Decors and Demeanors\|Decors and Demeanors]]
+who the heck are you? this helps you figure that out!
+## [[RPGStuck/Fraymotifs/Fraymotifs Jukebox\|Fraymotifs Jukebox]]
+MUSICAL SUPERPOWERS!!! 
 ## [[RPGStuck/Miscellaneous/Pages to be Imported\|Pages to be Imported]]
 Here you'll find all the pages I still haven't gotten around to importing... 
 ## [[RPGStuck/Miscellaneous/Guides\|Guides]]

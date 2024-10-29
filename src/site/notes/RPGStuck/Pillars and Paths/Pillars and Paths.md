@@ -7,3 +7,5 @@ You choose out of these three pillars...
 ## [[RPGStuck/Pillars and Paths/Sentinel\|Sentinel]]
 ## [[RPGStuck/Pillars and Paths/Slayer\|Slayer]]
 ## [[RPGStuck/Pillars and Paths/Strategist\|Strategist]]
+And then you find your paths!
+## [[RPGStuck/Pillars and Paths/All The Paths\|All The Paths]]
