@@ -18,8 +18,10 @@ Or what you might call, your "class", you stabstab? shieldy? strangey?
 who the heck are you? this helps you figure that out!
 ## [[RPGStuck/Fraymotifs/Fraymotifs Jukebox\|Fraymotifs Jukebox]]
 MUSICAL SUPERPOWERS!!! 
-## [[RPGStuck/Miscellaneous/Pages to be Imported\|Pages to be Imported]]
-Here you'll find all the pages I still haven't gotten around to importing... 
+## [[RPGStuck/Housebuilding Documents/Housebuilding Document\|Housebuilding Document]]
+Is this Minecraft?
+## [[RPGStuck/Session Master's Assistant/Session Master's Assistant\|Session Master's Assistant]]
+To aid the session master! nyeheheheheh.
 ## [[RPGStuck/Miscellaneous/Guides\|Guides]]
 Here you'll find guides for making and building your character.
 ## [[RPGStuck/Miscellaneous/Useful Pages\|Useful Pages]] 
