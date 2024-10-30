@@ -20,7 +20,7 @@ who the heck are you? this helps you figure that out!
 MUSICAL SUPERPOWERS!!! 
 ## [[RPGStuck/Housebuilding Documents/Housebuilding Document\|Housebuilding Document]]
 Is this Minecraft?
-## [[RPGStuck/Session Master's Assistant/Session Master's Assistant\|Session Master's Assistant]]
+## [[RPGStuck/Session Master's Assistant/Session Master's Assistant\|Session Master's Assistant]] (WIP)
 To aid the session master! nyeheheheheh.
 ## [[RPGStuck/Miscellaneous/Guides\|Guides]]
 Here you'll find guides for making and building your character.
