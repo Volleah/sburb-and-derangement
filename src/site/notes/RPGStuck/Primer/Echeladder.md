@@ -80,7 +80,7 @@ Players with access to their classpect start with the following two abilities:
 
 You may unlock more abilities as they progress through your session, at narratively appropriate times: the conclusion of odd-numbered gates (like max AP increases) would be appropriate, if nothing else comes to mind.
 
-More information on this topic, as well as additional abilities you might gain in the future and what you gain after God Tiering, can be found in the [[RPGStuck/Session Master's Assistant/Session Master's Assistant\|Session Master's Assistant]]
+More information on this topic, as well as additional abilities you might gain in the future and what you gain after God Tiering, can be found in the [[Session Master's Assistant WIPP\|Session Master's Assistant WIPP]]
 
 ## XP/Boondollars Table
 

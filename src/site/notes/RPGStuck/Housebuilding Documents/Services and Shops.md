@@ -22,4 +22,4 @@ Sometimes the player may want a one-off service, not a persistent follower. And 
 
 >[!info] Exceptional items, for items that would require tiered grist to create were it made at an alchemiter. Tiered items are typically not sold or stocked to begin with until a player is of the appropriate level for said tier. Tiered items roughly go for 800 BD for T1, 2400 for T2, 12000 for T3, 21000 for T4, 42000 for T5, with the caveat that a player can only buy as high a tier as they currently are.
 
-*For additional information on this subject, consult chapter 7 of the [[RPGStuck/Session Master's Assistant/Session Master's Assistant\|Session Master's Assistant]]*
+*For additional information on this subject, consult chapter 7 of the [[Session Master's Assistant WIPP\|Session Master's Assistant WIPP]]*
