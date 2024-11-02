@@ -4,5 +4,5 @@
 
 ## [[RPGStuck/Housebuilding Documents/Overview of Housebuilding\|Overview of Housebuilding]]
 ## [[RPGStuck/Housebuilding Documents/Building Up\|Building Up]]
-## [[RPGStuck/Housebuilding Documents/Followers\|Followers]]
+## [[Followers 1\|Followers 1]]
 ## [[RPGStuck/Housebuilding Documents/Services and Shops\|Services and Shops]]

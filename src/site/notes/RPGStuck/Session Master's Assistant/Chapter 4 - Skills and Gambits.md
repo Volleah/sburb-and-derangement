@@ -4,7 +4,7 @@
 
 
 
-"Is mayonnaise an instrument?"
+>[!quote] "Is mayonnaise an instrument?"
 
 #### The Role of Skills
 

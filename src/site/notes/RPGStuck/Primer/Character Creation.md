@@ -276,6 +276,7 @@ Each sylladex has two components you have to choose when putting it together, a 
 - **Packrat:** which makes strifing with sylladex ejection untenable, but lets you pack more items into your modus and lets you captchalogue bigger items like the Heavy option. If you pick this, make sure to unhide the rows under the sylladex section to reveal the extra space.
 
 For your fetch modus, you have to pick a skill; what skill is most associated with the fetch modus? You won't actually have to make a check with this skill whenever you want to take an item out. That said, you do use it in place of an attack roll when you eject something.
+for ideas for fetch modus, go to [[RPGStuck/Miscellaneous/Fetch Modi\|Fetch Modi]]
 
 ## Details
 
