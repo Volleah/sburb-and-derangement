@@ -7,7 +7,7 @@
 ## [[RPGStuck/Primer/RPGStuck Rule Primer\|RPGStuck Rule Primer]]
 here you can get used to the rules of RPGStuck.
 ## [Character Sheet](https://docs.google.com/spreadsheets/d/12mu9k2Q8u4taLdC5GZJy6-p82IFQaqqUZrU_CTAhFPs/edit?usp=sharing)
-This is where you'll build out your character! for a guide on how to do so check out the guide over at [[RPGStuck/Miscellaneous/Guides#Character Sheet\|Guides#Character Sheet]].
+This is where you'll build out your character! for a guide on how to do so check out the guide over at [[HTML import/How to Use the RPGStuck 3e Character Sheet\|How to Use the RPGStuck 3e Character Sheet]].
 ## [[RPGStuck/Strife Specibus/Strife Specibi\|Strife Specibi]]
 This contains all information relevant to your weapon, AKA your Strife Specibus.
 ## [[RPGStuck/Psionic Powers/Psionic Powers\|Psionic Powers]]

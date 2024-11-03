@@ -4,7 +4,7 @@
 
 ## For Players
 ### Character Sheet
-> [How to Use the Character Sheet](https://docs.google.com/document/d/1UsiS62ymVuz7gsqUtAgTZlb1JJOXTGYr_K6AkTgdgD8/edit)
+> [[HTML import/How to Use the RPGStuck 3e Character Sheet\|How to Use the RPGStuck 3e Character Sheet]]
 ---
 ### Example Sheets
 > [Jonathan Eggbartholomew](https://docs.google.com/spreadsheets/d/1PtLlIeQ1V-K3rtS9wOAeZjyjGTKxuik4ewiCjG2EuVM/)
