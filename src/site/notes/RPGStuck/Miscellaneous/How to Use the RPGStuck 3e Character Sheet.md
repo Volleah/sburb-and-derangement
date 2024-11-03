@@ -164,15 +164,15 @@ I think this section is self-explanatory, it’s just choosing the core concept 
 
 For Suzy, our example character, I’ve filled out her name, gender, species, chumhandle, and my own handle. I also know I want her to be a healing-focused character, with a passion for soap operas and who might not start drama in her friend group but sure will enjoy watching it. I won’t put her interests in her sheet yet, but I’ll keep that in the back of my mind for later.
 
-![](/img/user/Attachments/image3 1.png)
+![](/img/user/Attachments/image3_1.png)
 
 ## Race
 
 Alright, let’s get to the mechanical stuff. You’ll want to choose your racials right here, if you’re a human or if you’re a troll, and in both cases which racial features you want to have. To put them in your sheet, go to your Mechanics tab (the tabs are at the bottom of your character sheet). You’ll be making three different changes here. Firstly, find the dropdown right next to the box saying Caste, it should be just underneath the Hit Die and the ability scores. You’ll choose there whether you’re a highblood, midblood, lowblood, or human.
 
-![](/img/user/Attachments/image8 1.png)
+![](/img/user/Attachments/image8_1.png)
 
-![](/img/user/Attachments/image6 1.png)
+![](/img/user/Attachments/image6_1.png)
 
 If you aren’t sure which caste you should fill in, check the Rule Primer on Page 7-8, there’s a table of all the different racials there, and one of the columns says “Caste” right at the top. Use that!
 
@@ -266,7 +266,7 @@ I decided that I want Suzy to use a machine pistol, with the mechanics of Pistol
 
 After this, go back to the Mechanics tab and find the box that says “What stats does your wardrobe use?”, in the same box as your resistance proficiencies and stat increases, between your skill points and the “Psionics?” box.
 
-![](/img/user/Attachments/image2 1.png)
+![](/img/user/Attachments/image2_1.png)
 
 This is where you can choose which two stats are used to calculate your Armor Class, so this is an important decision. The only restriction is that you cannot choose Constitution as one of these stats unless you have the Sentinel pillar (if that sounds interesting, then make this choice after you read the Pillar section below).![](/img/user/Attachments/image39.png)
 
@@ -292,7 +292,7 @@ Your character starts off having Proficiency in one of your resistances (Fortitu
 
 ![](/img/user/Attachments/image13.png)
 
-Then just click one of the boxes besides the resistance you want to increase. Your sheet automatically adds your proficiency bonus, so you never need to worry about that again!![](/img/user/Attachments/image4 1.png)
+Then just click one of the boxes besides the resistance you want to increase. Your sheet automatically adds your proficiency bonus, so you never need to worry about that again!![](/img/user/Attachments/image4_1.png)
 
 For Suzy, she’s going to be proficient in Fortitude, as she dumped Strength and her Constitution is middling at best. You can also choose your proficiencies to help boost your best resistance even further, but I prefer to cover my weaknesses.
 
@@ -328,7 +328,7 @@ There’s just a few final things you’ll need to do before your character is m
 
 Roll your Hit Die (listed right below your ability scores to the left) and put that result next to the number 1 in the Level column. You’ll be doing this every time you gain a new level. Next, move over to the upper left corner, and in the box where it says “[what’s my rung?]”, type in whatever name you want for your first level. You don’t need to type in all the other levels when first making a character, and it can be better if your rung names reflect the session they’re in, but the choice is yours. Looks like Suzy got a pretty average roll for her Hit Points, and chose her first rung name.
 
-![](/img/user/Attachments/image7 1.png)
+![](/img/user/Attachments/image7_1.png)
 
 Next you’ll want to create and populate a fetch modus (or an inventory to avoid the Homestuck terms). Go to your Character tab and scroll all the way to the bottom, to the right of your Grist and Boondollars.
 
@@ -345,7 +345,7 @@ Next you’ll want to create and populate a fetch modus (or an inventory to avoi
 
 After you’ve chosen what kind of captchalogue deck you have, you can choose a name for your modus by typing in whatever you like where it says “[insert name here]”. In addition, to the right of that box there is a dropdown menu. Choose which skill you want to use to make attacks with your sylladex. It can be any skill, so don’t hesitate to choose your best one. For example, Suzy has chosen the Operation Modus, using Medicine to attack. Notice that the name of the Modus in the top of the section has automatically changed as well.
 
-![](/img/user/Attachments/image9 1.png)
+![](/img/user/Attachments/image9_1.png)
 
 Once you’ve decided on your modus, keep in mind that you will mostly likely not have to worry about sylladex shenanigans after entry, similar to how it was during Homestuck. Most of the sylladex jank got ignored after Act 2 or so, and it’s usually about the same in RPGStuck sessions. That being said, one very common thing that prospective SMs look for is a filled-out sylladex, so take the time to figure out what your character might have in their pockets or backpack. Do they carry a little whittling knife, a walking stick, a minifridge, a life-sized portrait of themselves? As long as it’s not too over-the-top, it’s a fairly easy way to appeal to your prospective SMs.
 
@@ -369,7 +369,7 @@ And of course, now that you’ve finished all the mechanical parts of your chara
 
 You might also have a few different features (racial features, demeanor, ammo, psionic slots) that are limited-use abilities, recharging after a certain amount of time, by means of a certain action, or after a rest. For these, we’ll use the Resources blocks on the Character tab of your sheet, just underneath your armor class and resistances.
 
-![](/img/user/Attachments/image5 1.png)
+![](/img/user/Attachments/image5_1.png)
 
 You can use these for any sort of limited-use or recharging ability, but for this example I’ll be using it to keep track of Suzy’s demeanor, which can be used P times per long rest, and Suzi’s ammo for her weapon.
 
